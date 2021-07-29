@@ -27,14 +27,10 @@ But The Windows Version Game Manager Source Code will be here.
 
 [♫]How to download ?
 
-To download this file follow this steps
-<br/>• Open Your Android Chrome Browser <br/>
-• Click On 3 Dots Near Your Tabs Changer<br/>
-• Then click on desktop site<br/>
-• A Green Color Code Button Will Appear  Then Click It<br/>
-• After clicking the Green Button A "Download ZIP option will appear<br/>
-• Then decompress the zip file the the app file will be available.
-
+To download this file follow this way
+<br/>•Click on XNOX.apk 
+•Then click view raw <br/>
+•It will be downloaded.
 
 <br/>
 [❤️] Support me - <br/>
